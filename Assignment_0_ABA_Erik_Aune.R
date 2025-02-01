@@ -6,8 +6,6 @@
 
 
 # Install the packages needed for this code file
-# install.packages(c("stats","factoextra","gridExtra","cluster"))
-
 library(tidyverse)
 library(dplyr)
 library(ggplot2)
